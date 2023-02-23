@@ -1,12 +1,12 @@
-## I'm Nicholas Maglowsch Salgueiro 👨🏻‍💻
+# I'm Nicholas Maglowsch Salgueiro 👨🏻‍💻
 
 
 
 <div align="center">
   <div>
-    <a href = "mailto:nickmaglowsch3@gmail.com"><img height="40em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/nicholas-m-s/" target="_blank"><img height="40em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://stackoverflow.com/users/9573175/nicholas-maglowsch-salgueiro/" target="_blank"><img height="40em" src="https://aleen42.github.io/badges/src/stackoverflow.svg" target="_blank"></a> 
+    <a href = "mailto:nickmaglowsch3@gmail.com"><img height="30em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/nicholas-m-s/" target="_blank"><img height="30em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://stackoverflow.com/users/9573175/nicholas-maglowsch-salgueiro/" target="_blank"><img height="30em" src="https://aleen42.github.io/badges/src/stackoverflow.svg" target="_blank"></a> 
   </div>
   <br>
 <div>
