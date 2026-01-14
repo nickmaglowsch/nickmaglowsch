@@ -7,8 +7,8 @@
   <br>
   <div>
     <a href="https://github.com/nickmaglowsch">
-<!-- Alternative instance -->
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nickmaglowsch&show_icons=true&theme=transparent&hide_border=true"/>    </a>
+      <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nickmaglowsch&show_icons=true&theme=tokyonight&hide_border=true"/>  
+    </a>
   </div>
 </div>
 
